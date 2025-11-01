@@ -1,0 +1,83 @@
+Cria uma página de vendas moderna e altamente persuasiva para um produto chamado Escova 3 em 1 PetBrush™.
+O produto é uma escova multifuncional para cães e gatos, que remove pelos soltos, massageia e limpa profundamente, substituindo banhos frequentes.
+
+O público-alvo são donos de pets em Portugal, que valorizam conforto, higiene e bem-estar animal.
+
+O modelo de pagamento é “Pague na Entrega” (Cash on Delivery) — deve estar destacado várias vezes na página como um diferencial.
+
+Estrutura desejada da página:
+
+1. Hero Section (início):
+
+Imagem do produto em destaque e um pet feliz.
+
+Título forte: “A Escova 3 em 1 que o seu Pet Vai Amar ❤️”
+
+Subtítulo: “Remove pelos, massageia e substitui os banhos — tudo numa só escova!”
+
+CTA: “Encomendar Agora – Pague Só Quando Receber”
+
+2. Benefícios (3 a 5 cartões):
+
+Remove pelos soltos e evita bolas de pelo.
+
+Massagem relaxante com cerdas de silicone macias.
+
+Ideal para cães e gatos de qualquer tamanho.
+
+Reduz banhos e visitas ao veterinário.
+
+Design ergonómico e fácil de limpar.
+
+3. Demonstração visual (secção com imagens ou vídeo):
+Mostra o produto em uso num gato e num cão.
+Adiciona legendas explicando cada função (remover, massajar, limpar).
+
+4. Depoimentos de clientes (avaliações reais):
+Inclui 3–4 depoimentos com fotos de pets.
+Exemplo:
+“A minha gata adora! Quase dorme enquanto escovo 😻 — Ana Ribeiro, Lisboa”
+“O meu cão já não solta pelo pela casa toda! — Miguel Tavares, Porto”
+
+5. Comparativo / Garantia:
+Título: “Por que escolher a PetBrush™?”
+Mostra tabela comparando com escovas comuns (mais barata, mas sem massagem nem limpeza).
+Inclui selo “Satisfação Garantida ou Dinheiro de Volta”.
+
+6. Oferta e preço:
+
+Mostra preço com desconto (ex: De 39,90€ → Por 19,90€).
+
+Exibe contador de stock e urgência (“Restam apenas 23 unidades!”).
+
+CTA: “Encomendar Agora – Pague Só Quando Receber 🐾”.
+
+7. Formulário de encomenda (COD):
+Campos: Nome, Telefone, Morada completa, Código postal, Quantidade.
+Botão: “Finalizar Encomenda”.
+
+8. Rodapé:
+
+Links: Política de privacidade, Termos, Contactos.
+
+Texto legal padrão.
+
+Design:
+
+Estilo moderno, com tons azul-claro, branco e verde menta (limpeza + natureza).
+
+Ícones vetoriais, emojis e imagens de pets reais.
+
+Layout responsivo (mobile-first).
+
+Usa TailwindCSS ou estrutura limpa com HTML/CSS/JS.
+
+Extras:
+
+Usa emojis para criar empatia (🐶🐱✨💚).
+
+Frases curtas e emocionais (“O seu pet merece este cuidado”).
+
+Adiciona selo “Pague Só Quando Receber” em destaque perto dos CTAs.
+
+Otimiza para velocidade e mobile (landing de alta conversão).
